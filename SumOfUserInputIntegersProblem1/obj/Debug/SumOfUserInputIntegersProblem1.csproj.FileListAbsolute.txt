@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfUserInputIntegersProblem1\SumOfUserInputIntegersProblem1\bin\Debug\SumOfUserInputIntegersProblem1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfUserInputIntegersProblem1\SumOfUserInputIntegersProblem1\bin\Debug\SumOfUserInputIntegersProblem1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfUserInputIntegersProblem1\SumOfUserInputIntegersProblem1\bin\Debug\SumOfUserInputIntegersProblem1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfUserInputIntegersProblem1\SumOfUserInputIntegersProblem1\obj\Debug\SumOfUserInputIntegersProblem1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfUserInputIntegersProblem1\SumOfUserInputIntegersProblem1\obj\Debug\SumOfUserInputIntegersProblem1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfUserInputIntegersProblem1\SumOfUserInputIntegersProblem1\obj\Debug\SumOfUserInputIntegersProblem1.pdb

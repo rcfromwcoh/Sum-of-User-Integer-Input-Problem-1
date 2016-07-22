@@ -46,26 +46,27 @@ namespace SumOfUserInputIntegersProblem1
                 Console.WriteLine("Do you want to add another number? (YES/NO)");
                 yesOrNo = Console.ReadLine();
                 yesOrNo = yesOrNo.ToUpper();
-                do
-                {
+                //do while (yesOrNo == "YES")
+                //    {
 
 
-                    if (yesOrNo == "YES")
-                    {
+                        while (yesOrNo == "YES")
+                        {
 
-                        Console.WriteLine("Enter a number to sum:");
-                        secondNum = int.Parse(Console.ReadLine());
-                        int firstSum = firstNum + secondNum;
-                        Console.WriteLine("NUMBERS ENTERED:\n" + firstNum + secondNum + " SUM: " + firstSum);
-                        Console.WriteLine("Do you want to add another number? (YES/NO)");
-                        yesOrNo = Console.ReadLine();
-                        yesOrNo = yesOrNo.ToUpper();
+                            Console.WriteLine("Enter a number to sum:");
+                            secondNum = int.Parse(Console.ReadLine());
+                            int firstSum = firstNum + secondNum;
+                            Console.WriteLine("NUMBERS ENTERED:\n" + firstNum + " " + secondNum + " SUM: " + firstSum);
+                            firstNum = firstSum;
+                            Console.WriteLine("Do you want to add another number? (YES/NO)");
+                            yesOrNo = Console.ReadLine();
+                            yesOrNo = yesOrNo.ToUpper();
+                        }
                     }
-                }
                 while (yesOrNo == "YES");
                 
-            }
-            while (yesOrNo == "YES");
+            //}
+            //while (yesOrNo == "YES");
 
             Console.WriteLine("GOODBYE");
             Console.ReadKey();
